@@ -96,7 +96,7 @@ else
 end
 
 local Window = Library:CreateWindow({
-	Title = "Voidware - Ink Game",
+	Title = "3rfe - Voidware",
     Footer = "discord.gg/voidware",
 	Center = true,
 	AutoShow = true,
@@ -623,7 +623,7 @@ Script.Functions.OnLoad = function()
         end
     }
 
-    Script.Functions.EffectsNotification("Voidware - Ink Game loaded!", 5)
+    Script.Functions.EffectsNotification("3rfe - Ink Game loaded!", 5)
     Script.Functions.EffectsNotification("Join discord.gg/voidware for updates :)", 5)
 end
 
