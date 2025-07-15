@@ -4320,6 +4320,7 @@ MenuGroup:AddButton("Unload", function() Library:Unload() end)
 
 CreditsGroup:AddLabel("erchodev#0 - script dev")
 CreditsGroup:AddLabel("Jorsan - Mingle Support & Godmode")
+CreditsGroup:AddLabel("3rfe - mods helper")
 CreditsGroup:AddLabel("linoria - ui library")
 CreditsGroup:AddLabel("obsidian - ui library")
 CreditsGroup:AddLabel("mspaint v2")
