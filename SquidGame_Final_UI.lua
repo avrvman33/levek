@@ -96,7 +96,7 @@ else
 end
 
 local Window = Library:CreateWindow({
-	Title = "3rfe - Voidware",
+	Title = "Voidware - Ink Game",
     Footer = "discord.gg/voidware",
 	Center = true,
 	AutoShow = true,
@@ -623,7 +623,7 @@ Script.Functions.OnLoad = function()
         end
     }
 
-    Script.Functions.EffectsNotification("3rfe - Ink Game loaded!", 5)
+    Script.Functions.EffectsNotification("Voidware - Ink Game loaded!", 5)
     Script.Functions.EffectsNotification("Join discord.gg/voidware for updates :)", 5)
 end
 
@@ -4320,7 +4320,6 @@ MenuGroup:AddButton("Unload", function() Library:Unload() end)
 
 CreditsGroup:AddLabel("erchodev#0 - script dev")
 CreditsGroup:AddLabel("Jorsan - Mingle Support & Godmode")
-CreditsGroup:AddLabel("3rfe - mods helper")
 CreditsGroup:AddLabel("linoria - ui library")
 CreditsGroup:AddLabel("obsidian - ui library")
 CreditsGroup:AddLabel("mspaint v2")
