@@ -1,8 +1,4 @@
--- =================================================================
--- FINAL VERSION - Shift-Click Teleport & Tutorial Fix
--- =================================================================
 
---// Services
 local UserInputService = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
 local Players = game:GetService("Players")
